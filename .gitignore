@@ -1,0 +1,7 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore specific CSV files
+A_B_testing_dataset.csv
+marketing_AB.csv
+marketing_campaign_data.csv
